@@ -1,5 +1,6 @@
 # springboot-backend
-
+1. GET - all employees
+2. POST - create employees
 
 
 
